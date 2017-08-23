@@ -1,0 +1,26 @@
+{
+  "name": "print-hello-world",
+  "author": "Jien Hua <jienh@yahoo-inc.com>",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jienhua/print-hello-world" 
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "6"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "yahoo": {
+    "custodian": {
+      "email": "jienh@yahoo-inc.com",
+      "url": ""
+    },
+    "bugzilla": {
+      "product": "",
+      "component": "General"
+    }
+  }
+}
