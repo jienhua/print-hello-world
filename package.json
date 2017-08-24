@@ -4,14 +4,13 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jienhua/print-hello-world" 
+    "url": "https://github.com/jienhua/print-hello-world"
   },
   "main": "index.js",
   "engines": {
     "node": "6"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {},
   "yahoo": {
     "custodian": {
